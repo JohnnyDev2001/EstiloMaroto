@@ -1,0 +1,8 @@
+backend/.yarn/*
+backend/!.yarn/patches
+backend/!.yarn/plugins
+backend/!.yarn/releases
+backend/!.yarn/sdks
+backend/!.yarn/versions
+
+backend/yarn/cache
